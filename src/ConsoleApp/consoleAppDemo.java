@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package ConsoleApp;
+
+/**
+ * @author Louis
+ *
+ */
+public class consoleAppDemo {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
