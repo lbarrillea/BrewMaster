@@ -6,5 +6,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Louis/Desktop/buisness/BrewMaster/BrewMaster/sqljdbc_6.0.8112.200_enu.exe"/>
+	<classpathentry kind="lib" path="C:/Users/Louis/Desktop/Programing practice/Revature/PubHub-StarterKit/WebContent/WEB-INF/lib/postgresql-42.1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
